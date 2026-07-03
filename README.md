@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hi! I'm Evan, a UBC Business and Computer Science (BUCS) student. I'm passionate about combining computer science and business concepts!
+
 <!--
 **evanpengyang/evanpengyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
